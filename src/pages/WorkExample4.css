@@ -1,0 +1,90 @@
+.Hero5 {
+    background: url('../images/WorkExample4.jpg');
+    height: 900px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-color: white;
+  }
+
+  
+  .HeroGroup5 {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 140px 50px;
+    text-align: center;
+  }
+
+  
+  
+  .Hero5 h1 {
+    margin: 0;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 54px;
+    line-height: 1.2;
+    opacity: 0;
+    animation: HeroAnimation;
+    animation-duration: 3s;
+    animation-delay: 0.1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1)
+  
+  }
+  
+  .Hero5 p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 28px;
+    line-height: 1.5;
+    animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+    opacity: 0;
+  }
+  
+  .Hero5 a {
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 9px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 20px;
+    transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1)
+    
+  }
+  
+  .Hero5 a:hover {
+    background: white;
+    color: black
+  }
+  
+  @media (max-width: 640px) {
+      .HeroGroup5 {
+        padding: 140px 20px;
+      }
+  
+      .Hero5 {
+        height: 700px;
+        background-size: 140%;
+        background-position: center;
+        position: relative;
+        background-repeat: no-repeat;
+    
+      }
+  
+      .Hero5 h1 {
+        font-size: 40px;
+      }
+  
+      .Hero5 p {
+        font-size: 24px;
+      }
+  }
+  
+  
+  .Hero5 svg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  
+  }
