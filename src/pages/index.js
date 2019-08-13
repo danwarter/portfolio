@@ -40,10 +40,12 @@ const IndexPage = () => (
             text="Esurance"
             image={require('../images/WorkExample2.jpg')} />
         </a>
+        <a href='/WorkExample3'>
           <Card 
             title="Design Sprint with Claims Team"
             text="Esurance"
-            image={require('../images/wallpaper2.jpg')} />
+            image={require('../images/WorkExample3.jpg')} />
+        </a>
         <a href='/WorkExample4'>
           <Card 
             title="Atomic Design System"
