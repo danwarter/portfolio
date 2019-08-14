@@ -29,6 +29,16 @@
     font-weight: 700;
 }
 
+.Header a:nth-child(6) {
+    display: none;
+
+}
+
+.Header a:nth-child(7) {
+    display: none;
+
+}
+
 .Header button {
     padding: 8px 20px;
     font-size: 20px;
@@ -80,6 +90,21 @@
     .Header a:nth-child(4) {
         display: none;
 
+    }
+
+    .Header a:nth-child(5) {
+        display: none;
+
+    }
+
+    .Header a:nth-child(6) {
+        display: block;
+    
+    }
+    
+    .Header a:nth-child(7) {
+        display: block;
+    
     }
 
 
