@@ -21,13 +21,13 @@ const WorkExample1 = () => (
           <p>To kick off this project the project manager and I flew out to one of our offices in Sioux Falls, South Dakota to perform a heuristic review of the web application with several SMEs and other stakeholders.</p>
         </div>
         <div className="Description">
-          <img src={ require('../images/ProductWalkThru.svg') } />
+          <img src={ url('https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg') } />
         </div>
       </div>
 
       <div className="DescriptionGroup">
         <div className="Description">
-          <img src={ require('../images/Interviewing.svg') } />
+          <img src={ url('https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg') } />
         </div>
         <div className="Description">
           <p>When we got back we had several meetings with the development team to better understand the technical constraits of the application and the dev resources that would be allocated to the project.</p>
@@ -41,13 +41,13 @@ const WorkExample1 = () => (
           <p>After these meetings we were able to identify the problem we should tackle first: the  navigation. This part of the application was key to increasing our digital share on mobile devices and we needed to come up with a solution that worked. </p>
         </div>
         <div className="Description">
-          <img src={ require('../images/Focus.svg') } />
+          <img src={ url('https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg') } />
         </div>
     </div>
 
     <div className="DescriptionGroup">
         <div className="Description">
-          <img src={ require('../images/Drawing.svg') } />
+          <img src={ url('https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg') } />
         </div>
         <div className="Description">
           <h3>Competitive analysis and sketching</h3>

@@ -18,7 +18,7 @@ a {
 }
 
 .Hero {
-  background: url('../images/wallpaper.svg');
+  background: url('https://d1sz9tkli0lfjq.cloudfront.net/items/3b3R0e140S1A2U441g0h/hero.svg');
   height: 900px;
   background-size: cover;
   background-position: center;
@@ -78,7 +78,7 @@ a {
     }
 
     .Hero {
-      background: url('../images/wallpaper-mobile.svg');
+      background: url('https://d1sz9tkli0lfjq.cloudfront.net/items/3Z2V253c3L0l1E1u0i3f/wallpaper-mobile.svg');
       height: 900px;
       background-size: cover;
       background-position: center;

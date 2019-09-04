@@ -12,6 +12,7 @@ const Header2 = props => (
         <Link to="/download"><button>Resume</button></Link>
         </div>
     </div>
+    
 )
   export default Header2
 
