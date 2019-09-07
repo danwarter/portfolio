@@ -122,9 +122,6 @@ a {
 .Description {
     width: 100%;
     height: 100%;
-    
-   
-   
 }
 
 .Description h3 {
@@ -145,30 +142,108 @@ a {
 }
 
   
+.DescriptionGroup {
+  margin: 0px 120px 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+}
+
+@media (max-width: 1060px) {
   .DescriptionGroup {
-    margin: 0px 120px 100px;
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 40px;
-    justify-items: center;
-  }
-  
-  @media (max-width: 1060px) {
-    .DescriptionGroup {
-      grid-template-columns: repeat(2, 1fr);
-      margin: 0px 100px 100px;
-    }
-  
-  }
-  
-    
-  @media (max-width: 720px) {
-    .DescriptionGroup {
-      grid-template-columns: repeat(1, 1fr);
-      margin: 0px 40px 100px;
-    }
-    
+    margin: 0px 100px 100px;
   }
 
+}
 
   
+@media (max-width: 720px) {
+  .DescriptionGroup {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0px 40px 100px;
+  }
+  
+}
+
+  
+.Images {
+  
+}
+
+.ImageLayout2 {
+    width: 100%;
+    height: 100%;
+    
+   
+   
+}
+
+.ImageLayout2 img {
+    width: 100%;
+}
+
+  
+.ImageLayout2Group {
+  margin: 0px 120px 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+}
+
+@media (max-width: 1060px) {
+  .ImageLayout2Group {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0px 100px 100px;
+  }
+
+}
+
+  
+@media (max-width: 720px) {
+  .ImageLayout2Group {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0px 40px 100px;
+  }
+  
+}
+  
+
+
+.ImageLayout3 {
+  width: 100%;
+  height: 100%;
+ 
+}
+
+.ImageLayout3 img {
+  width: 100%;
+}
+
+
+.ImageLayout3Group {
+  margin: 0px 120px 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+}
+
+@media (max-width: 1060px) {
+  .ImageLayout3Group {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0px 100px 100px;
+  }
+
+}
+
+
+@media (max-width: 720px) {
+  .ImageLayout3Group {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0px 40px 100px;
+  }
+
+} 
