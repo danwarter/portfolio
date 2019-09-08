@@ -1,0 +1,73 @@
+
+.Timeline {
+    background-color: #FFF;
+    height: 1200px;
+    align-content: center;
+
+    @media (max-width: 640px) {
+        height: 620px;
+    }
+
+}
+
+
+.Timeline h2 {
+    margin: 50px 20px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    background: linear-gradient(104deg, #111111 0%, #FED136 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+  }
+
+
+.Timeline h3 {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 32px;
+    margin-bottom: -6px;
+   
+}
+
+.Timeline p {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+
+}
+
+.Timeline img {
+    width: 30%;
+    border-radius: 1000px;
+    margin: 0 50%;
+
+}
+
+  
+
+
+@media (max-width: 1060px) {
+  
+
+}
+
+  
+@media (max-width: 720px) {
+  
+  
+}
+
+
+
+.WaveBottom {
+    position: absolute;
+    width: 100%;
+    bottom: -6px;
+}
+
+.WaveTop {
+    position: absolute;
+    width: 100%;
+    top: -6px;
+    transform: rotate(180deg);
+}

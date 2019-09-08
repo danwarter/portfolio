@@ -139,6 +139,10 @@ a {
   background: linear-gradient(104deg, #111111 0%, #FED136 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  @media (max-width: 640px) {
+    font-size: 54px;
+
+  }
 
 }
 

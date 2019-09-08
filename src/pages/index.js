@@ -58,12 +58,10 @@ const IndexPage = () => (
         </a>
       </div>
     </div>
-    <Section 
-      image={'https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg'}
-      image={'https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg'}
-      logo={'https://d1sz9tkli0lfjq.cloudfront.net/items/0V1j3k2a2s1A3P172L0j/WorkExample1.jpg'}
-      title="My process"
-      text="My designs are built from the knowledge and ideas I get out of my clients. They help me understand the problem, learn from customers and prototype solutions." />
+    <div id="Contact" />
+    <br />
+    <Section />
+    
 
       {/* <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js' async defer></script>
       <script src='http://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/GSDevTools.min.js' async defer></script>

@@ -56,20 +56,20 @@ const WorkExample1 = () => (
 
       <div className="ImageLayout3Group">
             <div className="ImageLayout3">
-              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2H3j0p2B3d0T1A2x3X2J/Sketch1.jpg'} />
+              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/350x2K0s3W0S0a3n3V06/Sketch1.jpg'} />
             </div>
             <div className="ImageLayout3">
-              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/1Y3D0f3U103L172m1k1F/Sketch2.jpg'} />
+              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0f2o1Y3I1v0X3o093q1E/Sketch2.jpg'} />
             </div>
             <div className="ImageLayout3">
-              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2k0c2s1D3a3I3r3m292j/Sketch3.jpg'} />
+              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/1k2P1X3K1h3B0V3k363F/Sketch3.jpg'} />
             </div>
             <div className="ImageLayout3">
-              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/1u2Y3l1U2B0i28172j1o/Sketch4.jpg'} />
+              <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2g2p0s1r1N2T2L27070P/Sketch4.jpg'} />
             </div>
         </div>
 
-        <div className="DescriptionGroup">
+      <div className="DescriptionGroup">
           <div className="Description">
             <h3>Finding our solution</h3>
             <p>After we reviewed each of the designs I started to create some low-fidelity mockups and we reviewed them with our developers and designers. We identifed the solution that seemed to work best under the technical constraints and decided to test that one. I created a low-fidelity prototype in Invision and our research team created tasks for 8 participates.</p>
@@ -89,8 +89,17 @@ const WorkExample1 = () => (
             <div className="ImageLayout2">
               <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2t3c1E1K3Z3S042D2z0b/Prototype3.jpg'} />
             </div>
+      </div>
+      
+      <div className="DescriptionGroup">
+        <div className="Description">
+          <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0W1q111g3Y1j113e1H2m/data.svg'} />
         </div>
-
+        <div className="Description">
+          <h3>Measuring results</h3>
+          <p>The prototype performed really well. 8 out of 8 users were able to complete the tasks flawlessly. Once the new navigation made its way into production we used Heap analytics and Hotjar to measure its impact. We found that users were more likely to start our key flows which reduced overall call volumns to our associates. We also noticed that users were able to perform tasks faster and easier from the Heap data and Hojar videos we oberserved.</p>
+        </div>
+      </div>
 
 
 
