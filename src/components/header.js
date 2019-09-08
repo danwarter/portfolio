@@ -37,8 +37,8 @@ class Header extends React.Component {
           <Link to="#Contact">Contact</Link>
           <Link to="/AboutMe">About</Link>
           <Link to="/download"><button>Resume</button></Link>
-          <Link to="/download" media="(max-width: 800px)"><img src={ require('../images/email-mobile.svg') } /></Link>
-          <Link to="/download" media="(max-width: 800px)"><img src={ require('../images/resume-mobile.svg') } /></Link>
+          <Link to="/download" media="(max-width: 800px)"><img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/1Y1k2S3r3m1D0B2l0c3O/email-mobile.svg'} /></Link>
+          <Link to="/download" media="(max-width: 800px)"><img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0w1l0u2T0j0P223g1L15/resume-mobile.svg'} /></Link>
           
         </div>
       </div>
