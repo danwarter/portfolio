@@ -6,6 +6,7 @@ import Section from '../components/Section';
 import Wave from '../components/Wave';
 import "animate.css/animate.min.css";
 import ScrollAnimation from 'react-animate-on-scroll';
+import AboutMe from '../components/AboutMe';
 
 
 const IndexPage = () => (
@@ -58,9 +59,12 @@ const IndexPage = () => (
         </a>
       </div>
     </div>
+    <div id="AboutMe" />
+    <AboutMe />
     <div id="Contact" />
     <br />
     <Section />
+    
     
 
       {/* <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js' async defer></script>

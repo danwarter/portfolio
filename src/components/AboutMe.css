@@ -1,0 +1,96 @@
+.AboutSection {
+    background-color: #fed134;
+    height: 800px;
+    background-size: cover;
+    display: grid;
+    grid-template-rows: 300px auto;
+    grid-gap: 20px;
+    position: relative;
+
+    @media (max-width: 640px) {
+        height: 920px;
+    }
+
+}
+
+
+.AngleBottom {
+    position: absolute;
+    width: 100%;
+    bottom: -6px;
+}
+
+.AngleTop {
+    position: absolute;
+    width: 100%;
+    top: -6px;
+    transform: rotate(180deg);
+}
+
+.AboutDescriptions {
+    margin-top: 200px;
+}
+
+.AboutDescriptions h2 {
+    margin: 50px 20px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+    color: #313131;
+  
+  }
+
+
+.AboutDescription {
+    width: 100%;
+    height: 100%;
+}
+
+.AboutDescription h3 {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 32px;
+    margin-bottom: -6px;
+   
+}
+
+.AboutDescription p {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+
+}
+
+.AboutDescription img {
+    width: 100%;
+}
+
+  
+.AboutDescriptionGroup {
+  margin: 0px 120px 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+}
+
+@media (max-width: 1060px) {
+  .AboutDescriptionGroup {
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0px 100px 100px;
+
+  }
+
+}
+
+  
+@media (max-width: 720px) {
+  .AboutDescriptionGroup {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0px 40px 100px;
+  }
+
+  .AboutSection {
+    height: 1200px;
+  
+  }
+  
+}
