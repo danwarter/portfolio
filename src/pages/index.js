@@ -64,12 +64,6 @@ const IndexPage = () => (
     <div id="Contact" />
     <br />
     <Section />
-    
-    
-
-      {/* <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js' async defer></script>
-      <script src='http://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/GSDevTools.min.js' async defer></script>
-      <script  src="./svg.js" async defer></script> */}
 
        
   </div>

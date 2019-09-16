@@ -15,7 +15,7 @@ const AboutMe = props => (
                 </div>
                 <div className="AboutDescription">
                     <h2>About</h2>
-                    <p>To better understand the problem I flew out to one of our offices with members from my team and we conducted a heuristic review of the web application with SMEs and other stakeholders. We then met with developers to better understand the technical constraints of the application and the dev resources that would be allocated to the project. </p>
+                    <p>I'm a UC Berkeley grad with a background in psychology, language and education. After graduating I started teaching in the US and South Korea. My foray into UX began while working with children with autism and their families, an opportunity that provided me with life changing lessons in empathy. My UX experience has mostly been in the edtech, retail and insurance industries.I have a passion for human-centered design and design thinking and love what I do for a living. I also love traveling, backpacking and spending time with my family. </p>
                 </div>
             </div>  
         </div>

@@ -121,7 +121,7 @@ const WorkExample2 = () => (
 
     </div>
      
-    </div>
+  </div>
   )
   
   export default WorkExample2

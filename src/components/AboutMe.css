@@ -11,6 +11,15 @@
         height: 920px;
     }
 
+    @media (max-width: 1060px) {
+        height: 1000px;
+    
+    }
+    
+  
+
+    
+
 }
 
 
@@ -32,7 +41,7 @@
 }
 
 .AboutDescriptions h2 {
-    margin: 50px 20px;
+    margin: 20px 20px;
     font-size: 60px;
     text-align: center;
     font-weight: 700;
