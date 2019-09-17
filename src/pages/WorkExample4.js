@@ -51,7 +51,7 @@ const WorkExample4 = () => (
           </div>
           <div className="Description">
             <h3>Exploration and iteration</h3>
-            <p>After cataloging and organizing all the components in Retail Pro's software, I started prototyping them with a modern Bootstrap framework and the new Material UI framework. The developers were big fans of React.js and everyone loved Material Design so we decided to go with the latter.</p>
+            <p>Before I created the style guide I started cataloging and and organizing all the components in Retail Pro's software. I then worked with stakeholders to identify trends and commonalities with the different components starting with the atoms, then the molecules and finally the organisms. </p>
           </div>
       </div>
 
@@ -60,7 +60,7 @@ const WorkExample4 = () => (
       <div className="DescriptionGroup">
           <div className="Description">
             <h3>Finding the solution</h3>
-            <p>...</p>
+            <p>I consolidated the reusable parts of the UI and translated them into Material UI components (a preferred framework in place of bootstrap). I then started building the style guide and reviewed it with stakeholders. Dev helped me refine and improve its specs and designers helped me created a reusable pattern library in Sketch. </p>
           </div>
           <div className="Description">
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0f431P2N0J3J0W2V0N0Z/user-testing.svg'} />
@@ -73,7 +73,7 @@ const WorkExample4 = () => (
         </div>
         <div className="Description">
           <h3>The result</h3>
-          <p>...</p>
+          <p>The atomic design system helped simplify our UI and made it more consistent. It also helped us improve communication between our departments. Devs now had a detailed and consistent spec document to reference and designers had the building blocks to create a better UI.  </p>
         </div>
       </div>
 
