@@ -150,10 +150,31 @@ a {
   justify-items: center;
 }
 
+.DescriptionNoImage {
+  margin: 0px 120px 60px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  justify-items: center;
+}
+
+.DescriptionNoImage p {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 20px;
+
+}
+
+
+
 @media (max-width: 1060px) {
   .DescriptionGroup {
     grid-template-columns: repeat(2, 1fr);
     margin: 0px 100px 100px;
+  }
+  .DescriptionNoImage {
+    margin: 0px 100px 60px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
   }
 
 }
@@ -163,6 +184,13 @@ a {
   .DescriptionGroup {
     grid-template-columns: repeat(1, 1fr);
     margin: 0px 40px 100px;
+  }
+
+  .DescriptionNoImage {
+    margin: 0px 40px 60px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
   }
   
 }
@@ -249,3 +277,4 @@ a {
   }
 
 } 
+

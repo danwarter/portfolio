@@ -9,7 +9,7 @@ const WorkExample1 = () => (
     <Header2 />
     <div className="Hero2">
       <div className="HeroGroup2">
-      <h1>Responsive Naviation</h1>
+      <h1>Responsive Navigation</h1>
         <Wave />
       </div>
     </div>

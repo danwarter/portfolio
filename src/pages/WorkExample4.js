@@ -22,7 +22,7 @@ const WorkExample4 = () => (
           <p>Retail Pro's point of sale software was in desperate need of a style guide. The UX and UI was very inconsistent  and there was no design language.The UI framework it used was also very old and out-dated. It was a very old version of Bootstrap that had been modified and customized by several designers and developers.</p>
         </div>
         <div className="Description">
-          <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0y0S2W1D2q1x2h052Y28/overview-old.svg'} />
+          <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2n0W3l0t441a2X3l3A2f/inconsistency.svg'} />
         </div>
       </div>
 
