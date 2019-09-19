@@ -47,7 +47,7 @@ const WorkExample4 = () => (
 
       <div className="DescriptionGroup">
           <div className="Description">
-            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0B1K0j2D1t092P0f052l/Drawing.svg'} />
+            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2o3R3a10222L3c360C44/atoms.svg'} />
           </div>
           <div className="Description">
             <h3>Exploration and iteration</h3>
@@ -55,15 +55,13 @@ const WorkExample4 = () => (
           </div>
       </div>
 
-
-
       <div className="DescriptionGroup">
           <div className="Description">
             <h3>Finding the solution</h3>
             <p>I consolidated the reusable parts of the UI and translated them into Material UI components (a preferred framework in place of bootstrap). I then started building the style guide and reviewed it with stakeholders. Dev helped me refine and improve its specs and designers helped me created a reusable pattern library in Sketch. </p>
           </div>
           <div className="Description">
-            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0f431P2N0J3J0W2V0N0Z/user-testing.svg'} />
+            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2s3d281o040T2p1M3B3F/building.svg'} />
           </div>
       </div>
       

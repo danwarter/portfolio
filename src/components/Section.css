@@ -30,6 +30,7 @@
     margin: 200px 60px 20px 60px; 
     text-align: center;
     line-height: 1.2;
+    font-weight: 700;
     @media (max-width: 720px) {
     font-size: 40px;
     }

@@ -24,7 +24,7 @@ const WorkExample3 = () => (
           <p>On Monday we started the sprint by setting a goal and created a list of questions that addressed the obstacles we would face trying to achieve it. We then created a map that had all of our actors on the left and the ending to the story on the right. The next step was to map out the actors' journeys to the end of the story.</p>
         </div>
         <div className="Description">
-          <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2n0W3l0t441a2X3l3A2f/inconsistency.svg'} />
+          <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/3i443h3b2m1U1x3p2j3F/map.svg'} />
         </div>
       </div>
 
@@ -63,7 +63,7 @@ const WorkExample3 = () => (
             <p>On Wednesday we put our final drawings on the wall and dot voted the ideas we liked. We conducted a speed critique of each and had someone take notes. We then did some final voting and separated the winning ideas from the ones we might implement later. We ended the day by creating a storyboard which outlined how we would create our prototype the next day.</p>
           </div>
           <div className="Description">
-            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0f431P2N0J3J0W2V0N0Z/user-testing.svg'} />
+            <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/162z3V340i422R1o3n06/dots.svg'} />
           </div>
       </div>
       
@@ -85,8 +85,6 @@ const WorkExample3 = () => (
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0W1q111g3Y1j113e1H2m/data.svg'} />
           </div>
       </div>
-
-
 
       </div>
     </div>
