@@ -10,7 +10,7 @@ const WorkExample2 = () => (
       <Header2 />
       <div className="Hero3">
       <div className="HeroGroup3">
-      <h1>Responsive Naviation</h1>
+      <h1>Overview Page</h1>
         <Wave />
       </div>
     </div>
@@ -81,7 +81,7 @@ const WorkExample2 = () => (
 
       <div className="DescriptionGroup">
           <div className="Description">
-            <p>After we reviewed the designs I started creating some low-fidelity mockups to explore some of these ideas. We reviewed several iterations and selected some to show a group of excecutives and our CEO as part of a presentation.</p>
+            <p>After we reviewed the designs I started creating some low-fidelity mockups to explore some of these ideas. We reviewed several iterations and selected some to show to a group of excecutives and our CEO as part of a presentation.</p>
           </div>
           <div className="Description">
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2R3U1b190t263m45432s/overview-iteration.svg'} />
@@ -100,7 +100,7 @@ const WorkExample2 = () => (
       <div className="DescriptionGroup">
           <div className="Description">
             <h3>Finding our solution</h3>
-            <p>We then narrowed it down to the two designs we liked most and moved to high-fidelity. Finally, we created two prototypes in Invision for our UX research team to perform an A/B test to see which prototype would perform better.</p>
+            <p>We then narrowed it down to the two designs we liked most and moved to high-fidelity. Finally, we created two prototypes in Invision and our UX research team performed an A/B test to see which prototype would perform better.</p>
           </div>
           <div className="Description">
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0f431P2N0J3J0W2V0N0Z/user-testing.svg'} />

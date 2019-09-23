@@ -33,14 +33,14 @@ const WorkExample3 = () => (
           <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/453p240W3m0l273d1v2A/Interviewing.svg'} />
         </div>
         <div className="Description">
-          <p>Once our map was complete we started interviewing stakeholders. We had them review our goal and map and asked several follow up questions. While the interview was happening we wrote down several "How Might We"  notes that captured problems mentioned in the interviews and rephrased  them as opportunities. </p>
+          <p>Once our map was complete we started interviewing stakeholders. We had them review our goal and map and asked several follow up questions. While the interview was happening we wrote down several "How Might We" notes that captured problems mentioned in the interviews and rephrased  them as opportunities. </p>
         </div>
       </div>
 
       <div className="DescriptionGroup">
           <div className="Description">
             <h3>Narrowing our focus </h3>
-            <p>We organized the HMW notes and used dot voting to pick the most useful ones. We then took the winners and placed them where they belonged on our map. From there we were able to pick our target.</p>
+            <p>We organized the HMW notes and used dot voting to pick the themes we wanted to focus on. We then took the winners and placed them where they belonged on our map. From there we were able to pick our target.</p>
           </div>
           <div className="Description">
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/2e2K1h3v1E041y0w1M40/Focus.svg'} />
@@ -79,7 +79,7 @@ const WorkExample3 = () => (
       <div className="DescriptionGroup">
           <div className="Description">
             <h3>Measuring results</h3>
-            <p>Our prototype performed really well. most participants were able to perform all of the tasks we gave them. We did identify some small issues with iconography and interactions but made adjustments to those after the sprint. Overall the sprint was a great success and was really fun to be a part of!</p>
+            <p>Our prototype performed really well! Most participants were able to perform the tasks we gave them. We did identify some small issues with iconography and interactions but made adjustments to those after the sprint. Overall the sprint was a great success and was really fun to be a part of!</p>
           </div>
           <div className="Description">
             <img src={'https://d1sz9tkli0lfjq.cloudfront.net/items/0W1q111g3Y1j113e1H2m/data.svg'} />
